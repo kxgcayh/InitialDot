@@ -1,0 +1,6 @@
+export const URL = '/rockets';
+export const GET_ROCKETS = 'GET_ROCKETS';
+export const SET_ERRORS = 'SET_ERRORS';
+export const FIND_FAVORITE_ROCKET = 'FIND_FAVORITE_ROCKET';
+export const ADD_FAVORITE_ROCKET = 'ADD_FAVORITE_ROCKET';
+export const REMOVE_FAVORITE_ROCKET = 'REMOVE_FAVORITE_ROCKET';
